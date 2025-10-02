@@ -62,6 +62,21 @@ HCMC-Metro-Web-Systems-PAWA/
  ├─ pom.xml             # Maven build file
  └─ README.md
 
+---
+
+## 📸 Screenshots
+
+| Sign Up | Sign In |
+|---------|---------|
+| <img width="213" height="139" alt="Sign Up" src="https://github.com/user-attachments/assets/e3d2a09a-3ac9-4e48-b809-479de3de8c77" /> | <img width="213" height="139" alt="Sign In" src="https://github.com/user-attachments/assets/ef05f088-51ab-4127-ac98-a79b17fe0020" /> |
+
+| Welcome Page | Profile Page |
+|--------------|--------------|
+| <img width="213" height="139" alt="Welcome Page" src="https://github.com/user-attachments/assets/c637831c-2744-41ac-bd2f-2bd6a9fd0d25" /> | <img width="213" height="139" alt="Profile Page" src="https://github.com/user-attachments/assets/125c163d-3c2a-4d55-a782-91faefdd18c1" /> |
+
+| Home Page |
+|-----------|
+| <img width="468" height="263" alt="Home Page" src="https://github.com/user-attachments/assets/b5e482f9-2c58-4345-b5f0-b4744d82fe18" /> |
 
 ---
 
